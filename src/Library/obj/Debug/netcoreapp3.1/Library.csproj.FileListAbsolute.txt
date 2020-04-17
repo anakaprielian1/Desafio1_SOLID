@@ -1,0 +1,11 @@
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_ejercicioGrupalSolid/grasp_solid/src/Library/obj/Debug/netcoreapp3.1/Library.csprojAssemblyReference.cache
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_ejercicioGrupalSolid/grasp_solid/src/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfoInputs.cache
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_ejercicioGrupalSolid/grasp_solid/src/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfo.cs
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Library/bin/Debug/netcoreapp3.1/Library.deps.json
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Library/bin/Debug/netcoreapp3.1/Library.dll
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Library/bin/Debug/netcoreapp3.1/Library.pdb
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Library/obj/Debug/netcoreapp3.1/Library.csprojAssemblyReference.cache
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfoInputs.cache
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Library/obj/Debug/netcoreapp3.1/Library.AssemblyInfo.cs
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Library/obj/Debug/netcoreapp3.1/Library.dll
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Library/obj/Debug/netcoreapp3.1/Library.pdb

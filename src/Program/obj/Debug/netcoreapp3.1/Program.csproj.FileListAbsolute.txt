@@ -1,0 +1,13 @@
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/bin/Debug/netcoreapp3.1/Program.deps.json
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/bin/Debug/netcoreapp3.1/Program.runtimeconfig.json
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/bin/Debug/netcoreapp3.1/Program.runtimeconfig.dev.json
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/bin/Debug/netcoreapp3.1/Program.dll
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/bin/Debug/netcoreapp3.1/Program.pdb
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/bin/Debug/netcoreapp3.1/Library.dll
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/bin/Debug/netcoreapp3.1/Library.pdb
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/obj/Debug/netcoreapp3.1/Program.csprojAssemblyReference.cache
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/obj/Debug/netcoreapp3.1/Program.AssemblyInfoInputs.cache
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/obj/Debug/netcoreapp3.1/Program.AssemblyInfo.cs
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/obj/Debug/netcoreapp3.1/Program.csproj.CopyComplete
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/obj/Debug/netcoreapp3.1/Program.dll
+/Users/anakaprielian/Documents/UCU/2020/ProgramacionII/5_DesafiosGRASP_SOLID/Desafio1/PII_Full_GRASP_and_SOLID_1_Start/src/Program/obj/Debug/netcoreapp3.1/Program.pdb
